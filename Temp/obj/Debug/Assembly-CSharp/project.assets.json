@@ -8,19 +8,19 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "C:\\Users\\a0972\\.nuget\\packages\\": {}
+    "C:\\Users\\jeffe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\xuan\\unity\\Worship\\Assembly-CSharp.csproj",
+      "projectUniqueName": "C:\\My Program\\unity\\0311\\Worship\\Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "D:\\xuan\\unity\\Worship\\Assembly-CSharp.csproj",
-      "packagesPath": "C:\\Users\\a0972\\.nuget\\packages\\",
-      "outputPath": "D:\\xuan\\unity\\Worship\\Temp\\obj\\Debug\\Assembly-CSharp\\",
+      "projectPath": "C:\\My Program\\unity\\0311\\Worship\\Assembly-CSharp.csproj",
+      "packagesPath": "C:\\Users\\jeffe\\.nuget\\packages\\",
+      "outputPath": "C:\\My Program\\unity\\0311\\Worship\\Temp\\obj\\Debug\\Assembly-CSharp\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\a0972\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jeffe\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -54,7 +59,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
